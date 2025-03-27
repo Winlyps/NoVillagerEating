@@ -1,0 +1,5 @@
+name: NoVillagerEating
+version: '1.0.0'
+main: winlyps.noVillagerEating.NoVillagerEating
+api-version: '1.20'
+authors: [ Winlyps ]
